@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "titulo": "string",
+        "descripcion": "string",
+        "completado": false,
+        "fecha_creacion": "2026-05-16 07:59:50"
+    },
+    {
+        "id": 3,
+        "titulo": "universidad",
+        "descripcion": "programacion",
+        "completado": false,
+        "fecha_creacion": "2026-05-16 08:00:32"
+    },
+    {
+        "id": 4,
+        "titulo": "Especias",
+        "descripcion": "comprobar fechas de caducidad",
+        "completado": false,
+        "fecha_creacion": "2026-05-16 08:19:25"
+    }
+]
